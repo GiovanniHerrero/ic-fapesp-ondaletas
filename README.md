@@ -20,6 +20,6 @@ O código referente ao experimento de *PCA Experiment* pode ser encontrado aqui:
 ## Relatório Semanal (05/02/26 a 11/02/26:)
 O código referente à reprodução do experimento de Johnston&Lu (com o acréscimo dos widgets para controlar parâmetros) e o código da Simulação de Monte Carlo (2000 execuções) exibindo a distribuição amostral dos coeficientes estão disponíveis abaixo, respectivamente. Nota: a reprodução de Johnston&Lu deve ser executada em ambiente Jupyter Notebook.
 - https://github.com/GiovanniHerrero/ic-fapesp-ondaletas/blob/c651b1aa3785d40bfc76772bf33ed5b2fdc0ec28/experimento1_J%26L.py
-- ttps://github.com/GiovanniHerrero/ic-fapesp-ondaletas/blob/c651b1aa3785d40bfc76772bf33ed5b2fdc0ec28/experimento1_j%26L_pt2.ipynb
+- https://github.com/GiovanniHerrero/ic-fapesp-ondaletas/blob/c651b1aa3785d40bfc76772bf33ed5b2fdc0ec28/experimento1_j%26L_pt2.ipynb
 
 
