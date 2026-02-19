@@ -25,6 +25,8 @@ O código referente à reprodução do experimento de Johnston&Lu (com o acrésc
 ## Relatório Semanal (12/02/26 a 18/02/26)
 O código referente à reprodução do experimento 1 de Johnston&Lu (2009) com bases diferentes de ondaletas está disponível aqui:
 - https://github.com/GiovanniHerrero/ic-fapesp-ondaletas/blob/7a27e234659ae1b6a101e3733d5bb0d04a0bce12/comparacao_bases.py
+O código referente à simulação de Monte Carlo que mostra, para além das distribuições dos coeficientes (como no relatório da semana passada), também a distribuição da métrica R (Johnston & Lu) está disponível aqui:
+- https://github.com/GiovanniHerrero/ic-fapesp-ondaletas/blob/f4012996b41fc8bd901bea2b158860b8de3a2dc7/montecarlo_R.py
 
 
 
