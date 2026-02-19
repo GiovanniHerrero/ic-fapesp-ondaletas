@@ -22,4 +22,9 @@ O código referente à reprodução do experimento de Johnston&Lu (com o acrésc
 - https://github.com/GiovanniHerrero/ic-fapesp-ondaletas/blob/c651b1aa3785d40bfc76772bf33ed5b2fdc0ec28/experimento1_J%26L.py
 - https://github.com/GiovanniHerrero/ic-fapesp-ondaletas/blob/c651b1aa3785d40bfc76772bf33ed5b2fdc0ec28/experimento1_j%26L_pt2.ipynb
 
+## Relatório Semanal (12/02/26 a 18/02/26)
+O código referente à reprodução do experimento 1 de Johnston&Lu (2009) com bases diferentes de ondaletas está disponível aqui:
+- https://github.com/GiovanniHerrero/ic-fapesp-ondaletas/blob/7a27e234659ae1b6a101e3733d5bb0d04a0bce12/comparacao_bases.py
+
+
 
