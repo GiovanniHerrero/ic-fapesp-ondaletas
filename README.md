@@ -29,5 +29,8 @@ O código referente à reprodução do experimento 1 de Johnston&Lu (2009) com b
 O código referente à simulação de Monte Carlo que mostra, para além das distribuições dos coeficientes (como no relatório da semana passada), também a distribuição da métrica R (Johnston & Lu) está disponível aqui:
 - https://github.com/GiovanniHerrero/ic-fapesp-ondaletas/blob/f4012996b41fc8bd901bea2b158860b8de3a2dc7/montecarlo_R.py
 
+O código referente à simulação de Monte Carlo (semelhante às simulações anteriores) utilizando a função SparsePCA, do pacote Scikit-Learn, ao invés do ASPCA (Adaptative Sparse PCA) está disponível aqui:
+- https://github.com/GiovanniHerrero/ic-fapesp-ondaletas/blob/d6c6ca17e8d5ddd5f5cda61272ed23ff74ed8dd6/montecarlo_sklearn.py
+
 
 
